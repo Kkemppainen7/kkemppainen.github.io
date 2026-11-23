@@ -2,73 +2,67 @@
   <img src="Img/me1" alt="Tim Raymond" width="30%">
 </p>
 
-<h1 align="center">Boozhoo, Tim indizhinikaaz 👋</h1>
+<h1 align="center">Boozhoo, Kaylee indizhinikaaz </h1>
 
 <p align="center">
-  <strong>Educator · Researcher · FAST Lab Director</strong>
+  <strong>Psychology Student · Lifelong Learner · Future Professional </strong>
 </p>
 
 <p align="center">
-  Human Factors &nbsp;|&nbsp; Applied AI &nbsp;|&nbsp; Community-Centered Innovation
+ 
 </p>
 
 <p align="center">
-  <em>Understanding people. Building possibilities.</em>
+  <em>You can't add days to your life, but you can add life to your days.</em>
 </p>
 
 ---
 
 ## About Me
 
-I’m **Tim Raymond**, Human Studies Department Chair and FAST Lab Director
-at **Keweenaw Bay Ojibwa Community College**.
+I'm **Kaylee Kemppainen**, a Psychology student at **Keweenaw Bay Ojibwa Community College** working toward my associate degree in Psychology.
 
-My work connects psychology, technology, and hands-on learning. I explore
-how people learn, make decisions, and interact with systems, then apply
-that understanding to teaching, research, and practical design.
+My interests are understanding human behavior, mental health, and the different ways people express themselves. One of my biggest career goals is to become an art therapist. I am especially interested in how art and creativity can help people express emotions, process difficult experiences, and improve their mental well-being.
 
-Across these areas, my focus is on creating meaningful opportunities
-for students and developing work that responds to community needs.
+Throughout my education, I have explored different areas of psychology, including child development, human behavior, and social and emotional development. These experiences have helped me become more confident, step outside my comfort zone, and discover what I want to pursue in the future.
+
+I hope to continue my education and gain the knowledge needed to combine psychology and creativity to support others. 
 
 ## Areas of Focus
 
-- **Teaching & Mentorship**  
-  Helping students connect psychology, research, writing, and emerging
-  technologies to their goals.
+- **Psychology & Human Behavior**  
+  Understanding how people think, feel, behave, and develop throughout different stages of life.
 
-- **Applied Research**  
-  Exploring human factors, workplace safety, well-being, and responsible
-  approaches to AI.
+- **Art Therapy & Creative Expression**  
+  Exploring how art, creativity, and self-expression can support emotional healing, communication, and mental health.
 
-- **Making & Innovation**  
-  Bringing ideas into practice through additive manufacturing,
-  prototyping, and workforce development.
+- **Mental Health & Well-Being**  
+  Learning about mental health, emotional wellness, addiction, and ways to support individuals through difficult experiences.
 
+- **Personal & Professional Growth**
+  Developing my research, communication, and critical-thinking skills while continuing to work toward my future career.
+  
 ---
 
 ## Featured Work
 
 ### Responsible AI Checklists
 
-Practical tools designed to help people ask informed questions about
-responsible AI use and development.
+Helped develop and organize checklist materials focused on responsible AI practices.
 
-**My contribution:** Checklist design, instructional development,
-and evaluation planning.
+**My contribution:** Designed checklists and helped make the information clear, useful, and easy to understand.
 
 ---
 
 <p align="center">
-  <em>“Tradition Shapes Our Innovation.”</em>
+  <em> "Creativity is another way to tell our story." </em>
 </p>
 
 <p align="center">
-  <sub>“This is going to be a pretty cool portfolio page… I think.” — Tim Raymond</sub>
+  <sub> "Sometimes, the things we cannot put into words can be expressed through art." — Kaylee Kemppainen</sub>
 </p>
 <p align="center">
   <em>
-    <a href="https://journals.sagepub.com/doi/full/10.1177/10711813251357883">
-      Read my published research on work safety perceptions and employee engagement in Tribal Colleges
-    </a>
+  
   </em>
 </p>
