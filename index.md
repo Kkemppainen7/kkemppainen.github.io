@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Img/me1" alt="Tim Raymond" width="30%">
+  <img src="kaylee.grad.pic.jpeg" alt="kaylee" width="30%">
 </p>
 
 <h1 align="center">Boozhoo, Kaylee indizhinikaaz </h1>
